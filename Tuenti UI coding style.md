@@ -1,5 +1,5 @@
 #Tuenti UI Coding Style Guide
-*Written on July 2012.* 
+*Written on July 2012. for [Tuenti dev blog](http://corporate.tuenti.com/en/dev/blog/tuenti-ui-coding-style-guide)* 
 
 ##General guides
 
